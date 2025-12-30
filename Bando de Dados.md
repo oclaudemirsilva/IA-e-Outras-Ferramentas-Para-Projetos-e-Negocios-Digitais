@@ -11,8 +11,11 @@
 
 
 
+**Minicurso de Banco de Dados Orientado a Grafos com Neo4j**
 
 [parte 1](https://www.youtube.com/watch?v=RABFPxXXQqM)
+
+[parte 2](https://www.youtube.com/watch?v=YJ6tUBjSe-I)
 
 
 
