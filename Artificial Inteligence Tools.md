@@ -14,3 +14,13 @@ Ask questions about your architecture, find function definitions, and understand
 
 [codewiki.google](https://codewiki.google/)
 
+
+
+
+
+* Repositories:
+
+System prompt and models for different ai tools, like Gemini, Cloud etc
+
+[https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main)
+
