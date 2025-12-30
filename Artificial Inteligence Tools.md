@@ -24,3 +24,9 @@ System prompt and models for different ai tools, like Gemini, Cloud etc
 
 [https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/tree/main)
 
+
+What is spec driven development, by github:
+
+[https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
+[https://github.com/github/spec-kit?tab=readme-ov-file#-what-is-spec-driven-development](https://github.com/github/spec-kit?tab=readme-ov-file#-what-is-spec-driven-development)
+
