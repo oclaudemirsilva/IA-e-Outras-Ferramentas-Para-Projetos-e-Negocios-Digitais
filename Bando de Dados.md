@@ -6,6 +6,9 @@
 [INtrodução a Banco de dados](https://www.youtube.com/watch?v=VbNDTOGjt4o)
 
 
+[Download phppgAdmin, um versão visual para postgreSQL](https://sourceforge.net/projects/phppgadmin/)
+
+
 
 [Quando não usar SQL e usar noSQL](https://www.youtube.com/watch?v=o8HEfReQ6co)
 
