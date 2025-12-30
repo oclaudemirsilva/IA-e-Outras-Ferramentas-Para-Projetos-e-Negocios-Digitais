@@ -1,5 +1,8 @@
 
 
+
+
+# Reddit  
 https://www.reddit.com/
 
 
@@ -7,6 +10,12 @@ https://www.reddit.com/
 https://www.primalzen.com.br/
 
 dor: redes sociais estão nos tornando anti-sociais
+
+
+# BlueSky  
+[Como usar o BlueSky](https://www.youtube.com/watch?v=Dr-8QNqwjFI)
+
+
 
 **Poosting**  
 
@@ -31,3 +40,11 @@ O Poosting tem potencial para se tornar a principal rede social do Brasil. Com a
 
 Um novo capítulo para a internet brasileira
 O Poosting representa uma mudança para uma internet mais democrática e personalizada no Brasil. Ao superar o Bluesky, ele mostra que **os brasileiros valorizam plataformas que respeitam sua cultura e privacidade**. Com um futuro promissor, o Poosting está pronto para liderar a próxima geração de redes sociais, conectando pessoas de forma inovadora e autêntica.
+https://poosting.com.br/politica-de-padroes-de-seguranca-infantil/
+https://poosting.com.br/politica-de-cookies/
+https://poosting.com.br/politica-de-privacidade/
+https://poosting.com.br/termos-de-uso/
+https://poosting.com/
+
+
+
