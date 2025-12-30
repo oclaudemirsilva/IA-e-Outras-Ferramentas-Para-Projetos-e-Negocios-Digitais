@@ -17,6 +17,21 @@ Ask questions about your architecture, find function definitions, and understand
 [codewiki.google](https://codewiki.google/)
 
 
+## LLMs
+
+
+
+Qwen Chat is an AI assistant for everyone, powered by the Qwen series models. It’s free to use, open to all, and ready to help with creativity, collaboration, and endless possibilities. Just ask, and let Qwen Chat do the rest.
+
+
+[https://qwen.ai/home](https://qwen.ai/home)
+
+
+
+
+
+
+
 ## Social Media:
 
 Create Viral AnimationsViral Animations
