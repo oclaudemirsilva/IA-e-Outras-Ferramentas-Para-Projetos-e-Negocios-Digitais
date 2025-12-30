@@ -18,7 +18,7 @@ Ask questions about your architecture, find function definitions, and understand
 
 
 
-* Repositories:
+## Repositories:
 
 System prompt and models for different ai tools, like Gemini, Cloud etc
 
