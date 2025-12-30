@@ -23,3 +23,8 @@ Alternative react for Wordpress and Elementor
 Grapes.js
 
 [https://app.grapesjs.com/](https://app.grapesjs.com/)
+
+## Pytorch
+PyTorch é uma framework de deep learning em código aberto baseada em software para construir redes neurais, emparelhando a biblioteca de aprendizado de máquina.  
+[https://pytorch.org/](https://pytorch.org/)  
+
