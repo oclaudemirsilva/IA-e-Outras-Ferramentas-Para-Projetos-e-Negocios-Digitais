@@ -22,7 +22,12 @@ whatsapp----> para trabalhar o relacionamento 1x1
 - **prova social:** número de seguidores, marcações, reposts, depoimentos - e tudo isso conta muito para quem está te conhecendo.  
 - **comunidade:** stories, caixinha de perguntas, enquete, interações rápidas que ainda são exclusividade  
 - **Direct Mensages:** marcas que conversam no dm tem altas taxas de conversão  
-- **Influência comercial:** 97% dos profissionais de marketing dos US usam Instagram e 30% apontam o Instagram como marketing de influência  
+- **Influência comercial:** 97% dos profissionais de marketing dos US usam Instagram e 30% apontam o Instagram como marketing de influência
+-[] ddd
+- [] d
+- [ ]dd
+- 
+ 
 
 
 
