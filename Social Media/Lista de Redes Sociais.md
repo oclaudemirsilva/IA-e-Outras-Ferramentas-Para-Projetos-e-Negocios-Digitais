@@ -16,6 +16,11 @@ modo primal
 dor: redes sociais estão nos tornando anti-sociais
 
 
+## Paçoca
+https://pacoca.net/  
+
+
+
 ## BlueSky  
 [Como usar o BlueSky](https://www.youtube.com/watch?v=Dr-8QNqwjFI)
 
