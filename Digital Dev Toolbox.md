@@ -1,5 +1,10 @@
 
 
+
+## Lista de tipos de domínios
+[https://www.nominus.com/en/dm/domain-search](https://www.nominus.com/en/dm/domain-search)
+
+
 ## Firebase
 Firebase Data Conect:
 
